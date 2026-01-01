@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+telemetry_config.json
+
+lap_history.csv
+
+.idea/
+.vscode/
